@@ -1,3 +1,5 @@
+'use client'
+
 import { evaluate } from "mathjs"
 import { useState } from "react"
 
